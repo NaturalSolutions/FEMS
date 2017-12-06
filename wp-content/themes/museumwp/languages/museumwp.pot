@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Museumwp v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-12-05 07:16+0530\n"
+"Last-Translator: admin <onistaweb@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ museumwp
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+# @ museumwp
+#: 404.php:18
+msgid "Sorry, this page isn't available"
+msgstr ""
+
+# @ museumwp
+#: 404.php:19
+msgid "The link you followed is probably broken or the page has been removed."
+msgstr ""
+
+# @ museumwp
+#: archive.php:36 index.php:37 search.php:37 page-templates/blog-template.php:93
+msgid "<i class="fa fa-angle-left"></i> Previous"
+msgstr ""
+
+# @ museumwp
+#: archive.php:37 index.php:38 search.php:38 page-templates/blog-template.php:94
+msgid "Next <i class="fa fa-angle-right"></i>"
+msgstr ""
+
+# @ museumwp
+#: archive.php:38 content.php:76 content-page.php:26 index.php:39 search.php:39 page-templates/blog-template.php:95
+msgid "Page"
+msgstr ""
+
+# @ museumwp
+#: comments.php:29
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+# @ museumwp
+#: comments.php:30
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+# @ museumwp
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+# @ museumwp
+#: content.php:72 content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+# @ museumwp
+#: content.php:89
+msgid "Share This Post : "
+msgstr ""
+
+# @ museumwp
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+# @ museumwp
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href="%1$s">Get started here</a>."
+msgstr ""
+
+# @ museumwp
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+# @ museumwp
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+# @ museumwp
+#: content-page.php:33
+msgid "Edit"
+msgstr ""
+
+# @ museumwp
+#: header.php:105
+msgid "Error Page"
+msgstr ""
+
+# @ museumwp
+#: header.php:110
+msgid "Search Results for: %s"
+msgstr ""
+
+# @ museumwp
+#: header.php:115
+msgid "Calendar of Events"
+msgstr ""
+
+# @ museumwp
+#: searchform.php:4
+msgid "Type Your Query Here..."
+msgstr ""

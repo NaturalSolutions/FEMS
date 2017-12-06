@@ -1,0 +1,91 @@
+[22-11-2017 10:00:33] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[22-11-2017 10:00:33] [Error] WPRSS > 2:
+Sorted: 
+
+
+[22-11-2017 10:00:55] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[22-11-2017 10:00:55] [Error] WPRSS > 2:
+Sorted: 
+
+
+[22-11-2017 10:49:37] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[22-11-2017 10:49:37] [Error] WPRSS > 2:
+Sorted: 
+
+
+[22-11-2017 11:51:38] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[22-11-2017 11:51:38] [Error] WPRSS > 2:
+Sorted: 
+
+
+[22-11-2017 13:10:06] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[22-11-2017 13:10:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[22-11-2017 13:50:10] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[22-11-2017 13:50:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 08:30:44] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[27-11-2017 08:30:44] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 08:49:25] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[27-11-2017 08:49:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 09:49:21] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[27-11-2017 09:49:21] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 10:50:05] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[27-11-2017 10:50:05] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 13:08:53] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[27-11-2017 13:08:53] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 13:50:10] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[27-11-2017 13:50:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 14:49:37] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.scoop.it/t/les-actus-du-reseau". A feed could not be found at https://www.scoop.it/t/les-actus-du-reseau. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+[27-11-2017 14:49:37] [Error] WPRSS > 2:
+Sorted: 
+
+

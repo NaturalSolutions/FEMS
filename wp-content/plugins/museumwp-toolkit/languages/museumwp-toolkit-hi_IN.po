@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Museumwp Toolkit 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 17:38+0530\n"
+"PO-Revision-Date: 2017-07-28 17:40+0530\n"
+"Language-Team: Onista Web <onistaweb@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.0.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hi_IN\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ museumwp-toolkit
+#: shortcodes/sc_blog.php:53
+msgid "BY "
+msgstr "द्वारा "
+
+# @ museumwp-toolkit
+#: shortcodes/sc_blog.php:55
+msgid ","
+msgstr ""
+
+# @ museumwp-toolkit
+#: shortcodes/sc_blog.php:69
+msgid "Read More..."
+msgstr "अधिक पढ़ें..."
+
+# @ museumwp-toolkit
+#: shortcodes/sc_events.php:86 shortcodes/sc_events.php:184
+msgid "View Event"
+msgstr "ईवेंट देखें"
+
+# @ museumwp-toolkit
+#: shortcodes/sc_gallery.php:67
+msgid "Origin: "
+msgstr "मूल: "
+
+# @ museumwp-toolkit
+#: includes/widgets/recent_posts.php:26
+msgid "Recent Posts"
+msgstr "हाल के पोस्ट"
+
+# @ museumwp-toolkit
+#: includes/widgets/upcoming_events.php:26
+msgid "Upcoming Events"
+msgstr "आने वाले कार्यक्रम"

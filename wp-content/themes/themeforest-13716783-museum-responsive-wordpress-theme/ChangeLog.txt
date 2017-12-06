@@ -1,0 +1,33 @@
+﻿Museum - Responsive WordPress Theme
+-----------------------------------
+
+v1.3 – Aug 10 2017
+UPDATED - Revolution Slider
+UPDATED - Visual Composer
+UPDATED - TGM Updated
+FIX - Child Theme Code Updated
+FIX - Gallery & Event Grid Post per page fix
+FIX - Cancel Comment Reply Button Display Isse
+FIX - Double title in single post/gallery/event
+FIX - Search Box Issue fix for no search result text
+NEW - WooCommerce Compatibility
+NEW - WPML Compatibility
+NEW - Google Map API Option Added
+IMPROVEMENTS - Child Theme Code Updated
+IMPROVEMENTS - WP Default Comment Nav Function Added instead custom fn
+IMPROVEMENTS - Admin Design Change & Disable admin notices( redux )
+IMPROVEMENTS - Speed Optimization by decreasing no of resource requests
+IMPROVEMENTS - Theme & Plugin Translated through Transation File ( pot File )
+IMPROVEMENTS - "Book Now" button text changed to "View Event".
+
+v1.2 – May 23rd, 2016
+- FIX ! Visual Composer Post Grid Issue
+- IMPROVEMENTS ! Event Grid Display
+- UPDATED! Revolution Slider Plugin to latest version
+
+v1.1 – April 15th, 2016
+- UPDATED! Visual Composer Plugin to latest version
+- UPDATED! Revolution Slider Plugin to latest version
+
+v1.0 - December 26th, 15
+- Initial Release

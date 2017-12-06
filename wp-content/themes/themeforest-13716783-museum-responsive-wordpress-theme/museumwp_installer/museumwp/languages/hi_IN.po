@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Museumwp v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-07-28 17:38+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: hi_IN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ museumwp
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+# @ museumwp
+#: 404.php:18
+msgid "Sorry, this page isn't available"
+msgstr "क्षमा करें, यह पृष्ठ उपलब्ध नहीं है"
+
+# @ museumwp
+#: 404.php:19
+msgid "The link you followed is probably broken or the page has been removed."
+msgstr "आप लिंक को फ़ॉलो शायद टूट जाता है या पृष्ठ हटा दिया गया है।"
+
+# @ museumwp
+#: archive.php:36 index.php:37 search.php:37
+#: page-templates/blog-template.php:93
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr "<i class=\"fa fa-angle-left\"></i>पिछले"
+
+# @ museumwp
+#: archive.php:37 index.php:38 search.php:38
+#: page-templates/blog-template.php:94
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr "आगामी <i class=\"fa fa-angle-right\"></i>"
+
+# @ museumwp
+#: archive.php:38 content.php:76 content-page.php:26 index.php:39 search.php:39
+#: page-templates/blog-template.php:95
+msgid "Page"
+msgstr "पेजर"
+
+# @ museumwp
+#: comments.php:29
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "One thought on &ldquo;%2$s&rdquo;"
+
+# @ museumwp
+#: comments.php:30
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "% 1 $ s & ldquo;% 2 $ s & rdquo; पर विचार"
+
+# @ museumwp
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हो गई हैं।"
+
+# @ museumwp
+#: content.php:72 content-page.php:22
+msgid "Pages:"
+msgstr "पन्ने"
+
+# @ museumwp
+#: content.php:89
+msgid "Share This Post : "
+msgstr "शेयर इस पोस्ट:"
+
+# @ museumwp
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "कुछ नहीं मिला"
+
+# @ museumwp
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"अपनी पहली पोस्ट को प्रकाशित करने के लिए तैयार हैं? <a href=\"%1$s\"> यहां प्रारंभ करें </"
+"a>."
+
+# @ museumwp
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"क्षमा करें, लेकिन आपके खोज शब्द से कुछ भी मेल नहीं खाता। कृपया कुछ अलग कीवर्ड के साथ फ़िर से "
+"कोशिश करें।"
+
+# @ museumwp
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"ऐसा लगता है कि हम नहीं खोज सकते हैं कि आप किसके लिए खोज रहे हैं शायद खोज से मदद मिल "
+"सकती है"
+
+# @ museumwp
+#: content-page.php:33
+msgid "Edit"
+msgstr "संपादित करें"
+
+# @ museumwp
+#: header.php:105
+msgid "Error Page"
+msgstr "त्रुटि पृष्ठ"
+
+# @ museumwp
+#: header.php:110
+msgid "Search Results for: %s"
+msgstr "तों के लिए खोज का परिणाम"
+
+# @ museumwp
+#: header.php:115
+msgid "Calendar of Events"
+msgstr "घटनाओं का कैलेंडर"
+
+# @ museumwp
+#: searchform.php:4
+msgid "Type Your Query Here..."
+msgstr "अपनी क्वेरी यहां लिखें ..."

@@ -1,0 +1,28 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">mc4wp-form</custom-type>
+	</custom-types>
+    <admin-texts>
+        <key name="museumwp_option">
+			<key name="opt_logo_select" />
+			<key name="opt_openinghours" />
+			<key name="opt_callto_title1" />
+			<key name="opt_callto_desc" />
+			<key name="opt_callto_btn" />
+			<key name="opt_callto_title2" />
+			<key name="opt_visiting_hours" />
+			<key name="opt_content_block1_title" />
+			<key name="opt_content_block1_desc" />
+			<key name="opt_content_block2_title" />
+			<key name="opt_content_block2_list" />
+			<key name="opt_contact_shortcode" />
+			<key name="opt_contact_address" />
+			<key name="opt_contact_email" />
+			<key name="opt_contact_working_hours" />
+			<key name="opt_contact_address_ft" />
+			<key name="opt_contact_email_ft" />
+        </key>
+        <key name="museumwp_option" />
+		<key name="blogname" />
+    </admin-texts>
+</wpml-config>

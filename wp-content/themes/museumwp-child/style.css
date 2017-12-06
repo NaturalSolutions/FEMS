@@ -1,0 +1,126 @@
+/*
+	Theme Name: Museum Child
+	Theme URI: http://lolthemes.com/demo/wpm/museum/
+	Author: PremiumLayers
+	Author URI: https://themeforest.net/user/premiumlayers/portfolio
+	Description: Museum Premium Wordpress Theme
+	Tags: threaded-comments, theme-options, sticky-post, full-width-template, flexible-header, featured-images, custom-menu, custom-header, custom-colors, custom-background
+	Version: 1.0
+	License: GNU General Public License
+	License URI: license.txt
+	Template: museumwp
+*/
+
+/* = Theme customization starts here
+-------------------------------------------------------------- */
+
+.top-bar {
+	background: #c2dd2e;
+}
+
+.top-bar .call {
+	background: #61004d;
+}
+.top-bar .call p{
+	background: #61004d;
+	color:#FFFFFF;
+}
+
+.top-bar p{
+	color:#000000;
+}
+
+.fondVert{
+	background: #c2dd2e;
+	height:444px;
+}
+
+#map{
+	padding-top:20px;
+}
+.center{
+    text-align:center;
+}
+
+#fold3{
+	margin-top:700px;
+}
+
+#testInclinaison{
+	background-image: url("http://localhost/FEMS/wp-content/uploads/2017/12/rect.png");
+	height: 115px;
+	padding-top:85px;
+	margin-top:70px;
+	margin-bottom:70px;
+
+	-webkit-transform: rotate(-6deg) skew(-7deg);
+	-moz-transform: rotate(-6deg) skew(-7deg);
+	-o-transform: rotate(-6deg) skew(-7deg);
+	transform: rotate(-6deg) skew(-7deg);
+	
+
+}
+
+#testInclinaison h3{
+	-webkit-transform: rotate(6deg) skew(7deg);
+	-moz-transform: rotate(6deg) skew(7deg);
+	-o-transform: rotate(6deg) skew(7deg);
+	transform: rotate(6deg) skew(7deg);
+}
+
+.footerCustom{
+	background:#c2dd2e;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.footerCustom a{
+	color:rgb(51,51,51);
+}
+
+.boutonFooter{
+  background-color:#61004d;
+  color: #FFFFFF !important;
+  padding: 7px;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  font-weight: lighter;
+  text-transform:none !important;
+  font-size: 30px !important;
+}
+.imageGouv{
+	padding-top:40px;
+}
+
+.page-header,
+.post-header {
+	background-attachment: fixed;
+	background-position: 50% -119px;
+	border: 0 none;
+	margin: 0;
+	padding: 0;
+	position: static;
+	text-align: left;
+	z-index: 1;
+}
+
+.overlay-gr {
+	background-image: url("http://localhost/FEMS/wp-content/uploads/2017/12/dvvf.png");
+	background-repeat: no-repeat;
+	padding: 30px 0;
+}
+.page-title {
+    font-size: 28px;
+    color: #000000;
+	margin: 0 0 30px;
+	padding-left: 20px;
+}
+.breadcrumb {
+	display:none;
+    border-radius: 0;
+    text-align: center;
+    background: #130805;
+    padding: 10px;
+    color: #fff;
+    font-size: 0;
+}

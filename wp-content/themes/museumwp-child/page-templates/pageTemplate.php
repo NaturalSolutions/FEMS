@@ -112,12 +112,12 @@ var myChart = new Chart(ctx2, {
                 'rgba(125, 227, 21, 1)'
             ],
             borderColor: [
-                'rgba(164, 70, 146, 1)',
-                'rgba(114, 33, 99, 1)',
-                'rgba(97, 0, 77, 1)',
-                'rgba(125, 227, 21, 1)'
+                'rgba(255, 255, 255, 1)',
+                'rgba(255, 255, 255, 1)',
+                'rgba(255,255, 255, 1)',
+                'rgba(255, 255, 255, 1)'
             ],
-            borderWidth: 1
+            borderWidth: 2
         }]
     },
     options: {
@@ -158,14 +158,14 @@ var myChart = new Chart(ctx1, {
                 'rgba(75, 192, 192, 1)'
             ],
             borderColor: [
-                'rgba(164, 70, 146, 1)',
-                'rgba(114, 33, 99, 1)',
-                'rgba(97, 0, 77, 1)',
-                'rgba(125, 227, 21, 1)',
-                'rgba(81, 89, 172, 1)',
-                'rgba(75, 192, 192, 1)'
+                'rgba(255,255, 255, 1)',
+                'rgba(255,255, 255, 1)',
+                'rgba(255,255, 255, 1)',
+                'rgba(255,255, 255, 1)',
+                'rgba(255,255, 255, 1)',
+                'rgba(255,255, 255, 1)'
             ],
-            borderWidth: 1
+            borderWidth: 2
         }]
     },
     options: {

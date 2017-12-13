@@ -32,7 +32,7 @@
 
 .fondVert{
 	background: #c2dd2e;
-	height:444px;
+	height:420px;
 }
 
 #map{
@@ -123,4 +123,96 @@
     padding: 10px;
     color: #fff;
     font-size: 0;
+}
+
+.boite{
+	background: #c2dd2e;
+	height:220px;
+	margin:10px;
+	border-radius: 5px;
+	/* box-shadow: 5px 5px; */
+}
+.boite a{
+	color: rgb(51,51,51);
+}
+.boite input{
+	background: #FFFFFF;
+	max-width: 200px;
+	max-height: 25px;
+	box-shadow: 2px 2px;
+}
+.boite select{
+	background: #FFFFFF;
+	max-width: 200px;
+	box-shadow: 2px 2px;
+}
+
+#submitButton{
+	background-color:#61004d !important;
+	color: #FFFFFF !important;
+	padding: 6px;
+	box-shadow: 0px 0px;
+}
+
+.select_box::before {
+	display:none;
+}
+
+.inputRecherche{
+	margin:15px;
+	color:#000000;
+}
+
+#upload{
+	background: #c2dd2e;
+	max-width: 205px;
+	margin:10px;
+	border-radius: 5px;
+	padding:10px;
+	color: #000000;
+}
+
+button, input[type="button"], input[type="reset"], input[type="submit"]{
+	-webkit-appearance: button;
+    background-color: #333;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    font-size: 12px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding: 0.7917em 1.5em;
+    text-transform: uppercase;
+}
+
+button, input[type="button"], input[type="reset"], input[type="submit"]:hover{
+	background-color:#61004d;
+}
+
+#popmake-819{
+	background-color: #c2dd2e;
+	border-radius:5px;
+	color:#000000 !important;
+}
+
+#popmake-819 input{
+	background: #FFFFFF;
+	max-width: 300px;
+
+}
+#popmake-819 textarea{
+	background: #FFFFFF;
+}
+
+#popmake-819 select{
+	background: #FFFFFF;
+	max-width: 300px;
+}
+
+.boite2{
+	background: #c2dd2e;
+	height:220px;
+	margin:10px;
+	border-radius: 5px;
+	box-shadow: 5px 5px;
 }

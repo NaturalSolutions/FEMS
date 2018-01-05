@@ -1,12 +1,12 @@
-=== CSV Importer & Exporter ===
+=== Ultimate CSV Importer ===
 Contributors: smackcoders, smacksupport
 Donate link: https://www.paypal.me/smackcoders
 Tags: csv, csv import, csv importer, import, import csv, import seo, import woocommerce, acf, excel, spreadsheet
 Requires at least: 4.1
-Tested up to: 4.9
+Tested up to: 4.9.1
 Requires PHP: 5.2.4 or above
-Stable tag: 5.3.3
-Version: 5.3.3
+Stable tag: 5.3.4
+Version: 5.3.4
 Author: smackcoders
 Author URI: http://profiles.wordpress.org/smackcoders/
 License: GPLv2 or later
@@ -123,7 +123,9 @@ For more FAQ, you can refer [here](http://www.smackcoders.com/wordpress-products
 
 == Changelog ==
 
-
+= 5.3.4 =
+* Improved: Notifications in mapping
+* Fixed: Export menu issue. 
 = 5.3.3 = 
 * Added: Compatibility for WordPress 4.9
 * Moved: User import as add-on.
@@ -481,6 +483,8 @@ For more FAQ, you can refer [here](http://www.smackcoders.com/wordpress-products
 * Initial release version. Tested and found works well without any issues.
 
 == Upgrade Notice ==
+= 5.3.4 = 
+* Upgrade now for Export issue fix.
 = 5.3.3 =
 * Upgrade now for WordPress 4.9 compatibility.
 = 5.3.2 =

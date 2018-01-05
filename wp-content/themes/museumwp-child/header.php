@@ -32,7 +32,7 @@
 					<p><i class="fa fa-map-marker"></i> <?php echo esc_attr( museumwp_options('opt_openinghours') ); ?></p>
 				</div>
 				<div class="call">
-					<p><i class="fa fa-phone"></i> <?php echo esc_attr( museumwp_options('opt_contactno') ); ?></p>
+				<a href="tel:+0484351487"><p><i class="fa fa-phone"></i> <?php echo esc_attr( museumwp_options('opt_contactno') ); ?></p></a>
 				</div>
 			</div>
 		</div>
@@ -48,7 +48,7 @@
 					<?php
 					if( museumwp_checkstring( museumwp_options('opt_site_logo','url') ) && museumwp_options('opt_logo_select') == '2' ):
 						?>
-						<a class="logo image-logo" href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="<?php echo esc_url( museumwp_options('opt_site_logo','url') ); ?>" alt=""/></a>
+						<a class="logo image-logo" href="<?php echo esc_url( home_url( '/' ) ); ?>"><img id="logoHeader" src="<?php echo esc_url( museumwp_options('opt_site_logo','url') ); ?>" alt=""/></a>
 						<?php
 					else:
 						?>
@@ -116,7 +116,8 @@
 					<?php
 				}
 				elseif( is_archive() ) {
-					the_archive_title( '<h1 class="page-title">', '</h1>' );
+					// the_archive_title( '<h1 class="page-title test">', '</h1>' );
+					the_title( '<h1 class="page-title test">', '</h1>' );
 				}
 				else {
 					the_title('<h1 class="page-title">','</h1>' );

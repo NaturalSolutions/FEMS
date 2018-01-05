@@ -458,9 +458,11 @@ function server_method(){
 }
 
 function toggle_func(id){
-    jQuery('#'+id+'toggle').slideToggle('slow');
-    jQuery('#icon'+id).toggleClass("icon-circle-down").toggleClass("icon-circle-up");
-    jQuery('#'+id).toggleClass("text-primary");
+    if(id != 'types_custom_fields' && id != 'acf_fields' && id != 'pods_custom_fields' && id != 'cctm_custom_fields' && id != 'acf_repeater_fields' && id != 'acf_pro_fields' && id != 'yoast_seo_fields'){
+	    jQuery('#'+id+'toggle').slideToggle('slow');
+	    jQuery('#icon'+id).toggleClass("icon-circle-down").toggleClass("icon-circle-up");
+	    jQuery('#'+id).toggleClass("text-primary");
+    }
 }
 
 /** VAlidate Custom Field Choice Text **/
